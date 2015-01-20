@@ -36,7 +36,7 @@ if __name__ == '__main__':
 			count += 1
 
 
-			print 'Done --- ' + tmpList[1] + '\t\t\t\t\t\t\t\t\t\t\t' + str(count / 4.71) + '%'
+			print 'Done --- ' + tmpList[1] + '\t\t\t\t\t\t\t\t\t\t\t' + str(count / 47.1) + ' %'
 		except Exception, e:
 			print e.message
 
